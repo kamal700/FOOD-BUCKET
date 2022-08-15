@@ -1,4 +1,4 @@
-# Shopping Cart
+# FOOD BUCKET
 ## About 
 It is shopping cart frontend web project.It uses HTML, CSS, JavaScript, Bootstrap, and React(framework).<br/>
 A responsive web design of shopping cart to select or
